@@ -1,0 +1,3 @@
+{
+  "extends": "@fourtwentyjs/config-tslint"
+}
